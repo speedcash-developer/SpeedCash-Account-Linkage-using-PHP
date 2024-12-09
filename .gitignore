@@ -1,0 +1,4 @@
+.env
+# PEM files (SSL certificates, keys)
+*.pem
+localData.json
